@@ -2,10 +2,10 @@
   "name": "Libraries",
   "description": "Fetch image processing binaries",
   "dependencies": {
-    "gifsicle": "2.0.*",
-    "jpegtran-bin": "2.0.*",
-    "optipng-bin": "2.0.*",
-    "svgo": "0.5.*"
+    "gifsicle": "^7.0",
+    "jpegtran-bin": "^7.0",
+    "optipng-bin": "^9.0.0",
+    "svgo": "^3.3.2"
   },
   "repository": {
     "type": "git",
